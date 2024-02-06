@@ -29,7 +29,7 @@ void loop() {
   distancia1 = (tiempo1 * 0.0343)/2;
 
   Serial.print("Distancia1: ");
-  Serial.println(distancia2);
+  Serial.println(distancia1);
 
   delayMicroseconds(100);
 
